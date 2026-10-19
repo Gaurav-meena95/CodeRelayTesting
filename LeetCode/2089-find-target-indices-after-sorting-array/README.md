@@ -3,8 +3,8 @@
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
 
 ## Performance
-- **Runtime**: 2 ms
-- **Memory**: 19.2 MB
+- **Runtime**: 1 ms
+- **Memory**: 19.1 MB
 
 
 ## Problem Description
